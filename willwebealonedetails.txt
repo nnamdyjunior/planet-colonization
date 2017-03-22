@@ -1,0 +1,61 @@
+galaxy model
+sol : 2800, 3872
+4080
+resolution 5000 light years = 24.038461 2ight years per pixel
+
+solar temperature 5772
+
+
+
+
+
+
+propulsion model:
+
+max payload
+
+reaction type
+
+range
+
+fuel type
+
+fuel abundance
+
+life hours
+
+time to build
+
+
+Colonization model
+
+payload required
+
+type of colony
+
+communication type
+
+reproduction type
+
+reporduction rate
+
+technology progress rate
+
+relaunch rate
+
+Global
+
+galaxy size
+
+metallic abundance
+
+stellar abundance
+
+planetary abundance
+
+
+
+
+
+
+
